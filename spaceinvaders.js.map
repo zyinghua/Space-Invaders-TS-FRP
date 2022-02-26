@@ -1,0 +1,1 @@
+{"version":3,"file":"spaceinvaders.js","sourceRoot":"","sources":["spaceinvaders.ts"],"names":[],"mappings":";;AAGA,SAAS,aAAa;IAClB,+DAA+D;IAC/D,aAAa;IACb,2FAA2F;IAC3F,0EAA0E;IAC1E,+EAA+E;IAC/E,0DAA0D;IAC1D,mDAAmD;IACnD,wBAAwB;AAC1B,CAAC;AAED,gGAAgG;AAChG,IAAI,OAAO,MAAM,IAAI,WAAW;IAC9B,MAAM,CAAC,MAAM,GAAG,GAAE,EAAE;QAClB,aAAa,EAAE,CAAC;IAClB,CAAC,CAAA"}
